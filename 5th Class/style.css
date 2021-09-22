@@ -1,0 +1,54 @@
+body {
+  background-image: url(Image/images.jfif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#first_id {
+  background-color: lightgreen;
+  border-style: double;
+  border-right-style: none;
+  border-bottom-style: groove;
+  border-width: 10px;
+  border-top-color: magenta;
+  margin-bottom: 25px;
+}
+#first_id p {
+  color: red;
+}
+#first_id h1 {
+  background-color: salmon;
+  text-align: center;
+  text-transform: uppercase;
+}
+#second_id {
+  background-color: saddlebrown;
+  border-style: solid;
+  border-radius: 20px;
+  padding: 10px;
+  margin-bottom: 30px;
+  text-transform: uppercase;
+}
+#last_id {
+  border: 5px solid red;
+  background-color: lightgrey;
+  width: 250px;
+  height: 250px;
+  margin: auto;
+  margin-top: 52px;
+  outline: 20px solid green;
+  outline-offset: 20px;
+  outline-style: groove;
+}
+#last_id h3 {
+  text-align: center;
+  background-color: lime;
+}
+#last_id p {
+  text-indent: 3 0px;
+  text-align: justify;
+  padding: 10px;
+}
+#last_id a {
+  text-decoration: none;
+}
